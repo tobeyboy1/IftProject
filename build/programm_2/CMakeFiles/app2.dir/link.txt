@@ -1,0 +1,1 @@
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/app2.dir/link.d CMakeFiles/app2.dir/Program_2.cpp.o -o app2  -Wl,-rpath,/media/sf_win-lin/build/lib ../lib/liblib.so

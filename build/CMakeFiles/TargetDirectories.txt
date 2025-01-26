@@ -1,0 +1,11 @@
+/media/sf_win-lin/build/CMakeFiles/edit_cache.dir
+/media/sf_win-lin/build/CMakeFiles/rebuild_cache.dir
+/media/sf_win-lin/build/lib/CMakeFiles/lib.dir
+/media/sf_win-lin/build/lib/CMakeFiles/edit_cache.dir
+/media/sf_win-lin/build/lib/CMakeFiles/rebuild_cache.dir
+/media/sf_win-lin/build/programm_1/CMakeFiles/app1.dir
+/media/sf_win-lin/build/programm_1/CMakeFiles/edit_cache.dir
+/media/sf_win-lin/build/programm_1/CMakeFiles/rebuild_cache.dir
+/media/sf_win-lin/build/programm_2/CMakeFiles/app2.dir
+/media/sf_win-lin/build/programm_2/CMakeFiles/edit_cache.dir
+/media/sf_win-lin/build/programm_2/CMakeFiles/rebuild_cache.dir
